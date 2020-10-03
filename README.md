@@ -8,4 +8,4 @@ This model is trained on a Convolutional Neural Network(CNN) to give real time f
 - A GUI interface(using tkinter library) is designed to make it user friendly
 - This application also gives the user an option to upload an image and get the prediction
 
-<!--  ![github](https://user-images.githubusercontent.com/45857315/86604939-a79f8a00-bfc3-11ea-855a-2abc420bd3d8.gif) -->
+[github](https://user-images.githubusercontent.com/45857315/86604939-a79f8a00-bfc3-11ea-855a-2abc420bd3d8.gif) 
