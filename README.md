@@ -12,3 +12,4 @@ This model is trained on a Convolutional Neural Network(CNN) to give real time f
 ![FaceMask](https://user-images.githubusercontent.com/45857315/95216478-b9d1d400-080f-11eb-9fd1-9caf984be23c.gif)
 
 
+![facemask](https://user-images.githubusercontent.com/45857315/95237009-4a66df00-0825-11eb-9716-cb38a8b879ef.gif)
