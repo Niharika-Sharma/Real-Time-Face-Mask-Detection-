@@ -9,3 +9,4 @@ This model is trained on a Convolutional Neural Network(CNN) to give real time f
 - This application also gives the user an option to upload an image and get the prediction
 
 ![github](https://user-images.githubusercontent.com/45857315/86604939-a79f8a00-bfc3-11ea-855a-2abc420bd3d8.gif) 
+![FaceMask](https://user-images.githubusercontent.com/45857315/95216478-b9d1d400-080f-11eb-9fd1-9caf984be23c.gif)
