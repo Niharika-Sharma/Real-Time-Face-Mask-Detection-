@@ -10,7 +10,8 @@ This model is trained on a Convolutional Neural Network(CNN) to give real time f
 
 ![facemask](https://user-images.githubusercontent.com/45857315/95237009-4a66df00-0825-11eb-9716-cb38a8b879ef.gif)
 
-<!--- ![github](https://user-images.githubusercontent.com/45857315/86604939-a79f8a00-bfc3-11ea-855a-2abc420bd3d8.gif) --->
-<!--- ![FaceMask](https://user-images.githubusercontent.com/45857315/95216478-b9d1d400-080f-11eb-9fd1-9caf984be23c.gif) -->
+<!--- ![github](https://user-images.githubusercontent.com/45857315/86604939-a79f8a00-bfc3-11ea-855a-2abc420bd3d8.gif) 
+![FaceMask](https://user-images.githubusercontent.com/45857315/95216478-b9d1d400-080f-11eb-9fd1-9caf984be23c.gif) --->
+
 
 
